@@ -1,4 +1,4 @@
-# 
+# Ligero AI Personal Finance Advisor herramientas. Con aumento de datos y aprendizaje por refuerzo — optimizado para el máximo rendimiento.
 
 
 
